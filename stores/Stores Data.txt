@@ -1,0 +1,28 @@
+I want to share with u my analysis to a stores Dataset 
+problem definition :
+The store  are in the middle of their digital transformation journey and they want to keep leading the market by satisfying their customers and meeting their expectation but the Advertisment didn't work so we need to figure out why ?
+The stores tried two types of advertisments 
+1) promo1: indicator for media advertisement
+2)promo2: indicator for store events.
+---------->
+so before figuring it out i needed to find which product group is the best selling group?
+ Shoes with 60% of sales income 
+also which Gender more purchasers?
+found that women have 70% of the sales income 
+which products category has the highst sales?
+Training category has 30% of sales income 
+which promo type work the best ?
+93% promo1 viewers didn't buy the product 
+99% of promo2 viewers also didn't buy the product 
+how much does promo1 represent from stores income ?
+promo1 Represents 0.11% of the stores sales
+which is the most selling country ?
+Germany then austria then france 
+conclusion :
+since the shoes has 60% of stores sales therefor the advertisment should focus on shoes category and show the other categories in suggestions 
+the company needs to increase men's and kids wear advertisement 
+the company need to advertise more at austria and france 
+promo1 seems to be working more than promo2 but yet still not effecient and it may be because one of the following causes:
+1) the person viewing the advertisment does'nt even know who you are so you need to increase the awarness about you
+2) you are targeting the wrong medium 
+3)it's all about you so use the words you and your extensively, Create your advertising with a person in mind. Relate everything back to how the reader can reduce stress, save or make money.
