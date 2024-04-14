@@ -1,1 +1,23 @@
-ibm dataset attrition analysis
+IBM attrition dataset analysis and visualization 
+first stage :
+reading and understanding the dataset and set some questions to be answered through the analysis 
+second stage : 
+Uploading data to microsoft powerBi , cleaning the data from nulls and duplucates to make the data consistent and reliable 
+third stage :
+visualize the data to get the statistics which answers the following questions 
+a) which gender has higher itration rate ?
+Males has higher attrition rate (17.1%) 
+it seems that the cause is that females has slightly higher monthly income also males seems to be living in places farther than females 
+b) does it related to years at company ?
+ employees that stayed for a year has 34% attrition rate it seems that they have much more overtime than the rest of employees 
+c)does it related to education level ?
+there are 5 education levels at the company 
+1 'Below College'
+2 'College'
+3 'Bachelor'
+4 'Master'
+5 'Doctor'
+after some analysis it seems that level 1 and level 3 education levels have the lowest hourly rates and the highst attrition rates in the company 
+d) Which department has highest attrition rate ?
+sales department has 20.63% attrition rate also it has the highest average years since last promotion
+also it has the least average salary hike also it has the lowest job satisfaction rate 
